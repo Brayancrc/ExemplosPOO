@@ -1,0 +1,15 @@
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\bin\Debug\net7.0\ExemplosPOO.exe
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\bin\Debug\net7.0\ExemplosPOO.deps.json
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\bin\Debug\net7.0\ExemplosPOO.runtimeconfig.json
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\bin\Debug\net7.0\ExemplosPOO.dll
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\bin\Debug\net7.0\ExemplosPOO.pdb
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\obj\Debug\net7.0\ExemplosPOO.csproj.AssemblyReference.cache
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\obj\Debug\net7.0\ExemplosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\obj\Debug\net7.0\ExemplosPOO.AssemblyInfoInputs.cache
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\obj\Debug\net7.0\ExemplosPOO.AssemblyInfo.cs
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\obj\Debug\net7.0\ExemplosPOO.csproj.CoreCompileInputs.cache
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\obj\Debug\net7.0\ExemplosPOO.dll
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\obj\Debug\net7.0\refint\ExemplosPOO.dll
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\obj\Debug\net7.0\ExemplosPOO.pdb
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\obj\Debug\net7.0\ExemplosPOO.genruntimeconfig.cache
+C:\Users\bracruz\Downloads\Projetos .Net\ExemplosPOO\obj\Debug\net7.0\ref\ExemplosPOO.dll
